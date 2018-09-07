@@ -1,3 +1,5 @@
+# Git Tutorial by Ian Schoonover https://www.youtube.com/watch?v=LemSseuZB9I&list=PL86ehqHzxhy4XX_qZZE_5mrp38WGZRzTO
+
 # Working Directory
  - Area where all of your files and directories and changes
 
